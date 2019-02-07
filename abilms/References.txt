@@ -1,0 +1,9 @@
+https://www.w3schools.com/bootstrap/default.asp
+https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+https://bootsnipp.com/snippets/2X0r
+https://bootsnipp.com/snippets/ZldrD
+https://getbootstrap.com/docs/3.3/components/
+https://www.w3schools.com/jquery/default.asp
+http://localhost/abilms/admin/login.php
+
+YT Link: https://www.youtube.com/watch?v=lc_5mBspGvc&index=11&list=PLPcBWWMezclwl53hbfag1oHO1uAW-e_Qu
